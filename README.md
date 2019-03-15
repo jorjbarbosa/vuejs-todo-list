@@ -1,8 +1,8 @@
-# vue-crash-course
+# Vue.js Todo List
 
 ## Project setup
 ```
-yarn install
+npm install or yarn install 
 ```
 
 ### Compiles and hot-reloads for development
